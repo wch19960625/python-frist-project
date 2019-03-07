@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="frist">
+    <file>image/logo.png</file>
+    <file>image/ext.png</file>
+    <file>image/min.png</file>
+    <file>image/bg_login.jpg</file>
+  </qresource>
+</RCC>
